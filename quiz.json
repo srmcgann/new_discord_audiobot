@@ -1,0 +1,679 @@
+[
+  {
+    "question": "What color is the sky?",
+    "answers": ["blue"]
+  },
+  {
+    "question": "How many letters are there in the alphabet?",
+    "answers": ["26", "twenty-six", "twenty six", "twentysix"]
+  },
+  {
+    "question": "What is the atomic weight of carbon?",
+    "answers": ["12.0096", "12.0116"]
+  },
+  {
+    "question": "What is the atomic weight of lithium?",
+    "answers": ["6.938", "6.997"]
+  },
+  {
+    "question": "What is the atomic weight of berylium?",
+    "answers": ["9.0121831"]
+  },
+  {
+    "question": "What is the atomic weight of boron?",
+    "answers": ["10.806", "10.821"]
+  },
+  {
+    "question": "What is the atomic weight of hydrogen?",
+    "answers": ["1.00784", "1.00811"]
+  },
+  {
+    "question": "What is the atomic weight of nitrogen?",
+    "answers": ["14.00643", "14.00728"]
+  },
+  {
+    "question": "What is the atomic weight of oxygen?",
+    "answers": ["15.99903", "15.99977"]
+  },
+  {
+    "question": "What is the atomic weight of flourine?",
+    "answers": ["18.998403163"]
+  },
+  {
+    "question": "What is the atomic weight of neon?",
+    "answers": ["20.1797"]
+  },
+  {
+    "question": "What is the atomic weight of sodium?",
+    "answers": ["22.98976928"]
+  },
+  {
+    "question": "What is the atomic weight of magnesium?",
+    "answers": ["24.304", "24.307"]
+  },
+  {
+    "question": "What is the atomic weight of aluminum?",
+    "answers": ["26.9815385"]
+  },
+  {
+    "question": "What is the atomic weight of silicon?",
+    "answers": ["28.084", "28.086"]
+  },
+  {
+    "question": "What is the atomic weight of phosphorus?",
+    "answers": ["30.973761998"]
+  },
+  {
+    "question": "What is the atomic weight of sulphur?",
+    "answers": ["32.059, 32.076"]
+  },
+  {
+    "question": "What is the atomic weight of chlorine?",
+    "answers": ["35.446", "35.457"]
+  },
+  {
+    "question": "What is the atomic weight of argon?",
+    "answers": ["39.948"]
+  },
+  {
+    "question": "What is the atomic weight of potassium?",
+    "answers": ["39.0983"]
+  },
+  {
+    "question": "What is the atomic weight of calcium?",
+    "answers": ["40.078"]
+  },
+  {
+    "question": "What is the atomic weight of scandium?",
+    "answers": ["44.955908"]
+  },
+  {
+    "question": "What is the atomic weight of titanium?",
+    "answers": ["47.867"]
+  },
+  {
+    "question": "What is the atomic weight of vandium?",
+    "answers": ["50.9415"]
+  },
+  {
+    "question": "What is the atomic weight of manganese?",
+    "answers": ["54.938044"]
+  },
+  {
+    "question": "What is the atomic weight of iron?",
+    "answers": ["55.845"]
+  },
+  {
+    "question": "What is the atomic weight of cobalt?",
+    "answers": ["58.933194"]
+  },
+  {
+    "question": "What is the atomic weight of nickel?",
+    "answers": ["58.6934"]
+  },
+  {
+    "question": "What is the atomic weight of copper?",
+    "answers": ["63.546"]
+  },
+  {
+    "question": "What is the atomic weight of zinc?",
+    "answers": ["65.38"]
+  },
+  {
+    "question": "What is the atomic weight of gallium?",
+    "answers": ["69.723"]
+  },
+  {
+    "question": "What is the atomic weight of germanium?",
+    "answers": ["72.630", "72.63"]
+  },
+  {
+    "question": "What is the atomic weight of arsenic?",
+    "answers": ["74.921595"]
+  },
+  {
+    "question": "What is the atomic weight of selenium?",
+    "answers": ["78.971"]
+  },
+  {
+    "question": "What is the atomic weight of bromine?",
+    "answers": ["79.901", "79.9071"]
+  },
+  {
+    "question": "What is the atomic weight of krypton?",
+    "answers": ["83.798"]
+  },
+  {
+    "question": "What is the atomic weight of rubidium?",
+    "answers": ["85.4678"]
+  },
+  {
+    "question": "What is the atomic weight of strontium?",
+    "answers": ["87.62"]
+  },
+  {
+    "question": "What is the atomic weight of yttrium?",
+    "answers": ["88.90594"]
+  },
+  {
+    "question": "What is the atomic weight of zirconium?",
+    "answers": ["91.224"]
+  },
+  {
+    "question": "What is the atomic weight of nobium?",
+    "answers": ["92.90637"]
+  },
+  {
+    "question": "What is the atomic weight of molebdenum?",
+    "answers": ["95.95"]
+  },
+  {
+    "question": "What is the atomic weight of technetium?",
+    "answers": ["97"]
+  },
+  {
+    "question": "What is the atomic weight of ruthenium?",
+    "answers": ["101.07"]
+  },
+  {
+    "question": "What is the atomic weight of rhodium?",
+    "answers": ["102.90550", "102.9055"]
+  },
+  {
+    "question": "What is the atomic weight of palladium?",
+    "answers": ["106.42"]
+  },
+  {
+    "question": "What is the atomic weight of silver?",
+    "answers": ["107.8682"]
+  },
+  {
+    "question": "What is the atomic weight of cadmuium?",
+    "answers": ["112.414"]
+  },
+  {
+    "question": "What is the atomic weight of indium?",
+    "answers": ["114.818"]
+  },
+  {
+    "question": "What is the atomic weight of tin?",
+    "answers": ["118.710", "118.71"]
+  },
+  {
+    "question": "What is the atomic weight of antimony?",
+    "answers": ["121.760", "121.76"]
+  },
+  {
+    "question": "What is the atomic weight of tellurium?",
+    "answers": ["127.60", "127.6"]
+  },
+  {
+    "question": "What is the atomic weight of iodine?",
+    "answers": ["126.90447"]
+  },
+  {
+    "question": "What is the atomic weight of xenon?",
+    "answers": ["131.293"]
+  },
+  {
+    "question": "What is the atomic weight of cesium?",
+    "answers": ["132.90545196"]
+  },
+  {
+    "question": "What is the atomic weight of barium?",
+    "answers": ["137.327"]
+  },
+  {
+    "question": "What is the atomic weight of lanthanum?",
+    "answers": ["138.90547"]
+  },
+  {
+    "question": "What is the atomic weight of cerium?",
+    "answers": ["140.116"]
+  },
+  {
+    "question": "What is the atomic weight of prasydymium?",
+    "answers": ["140.90766"]
+  },
+  {
+    "question": "What is the atomic weight of neodymium?",
+    "answers": ["144.242"]
+  },
+  {
+    "question": "What is the atomic weight of promethium?",
+    "answers": ["145"]
+  },
+  {
+    "question": "What is the atomic weight of smarium?",
+    "answers": ["150.36"]
+  },
+  {
+    "question": "What is the atomic weight of europium?",
+    "answers": ["151.964"]
+  },
+  {
+    "question": "What is the atomic weight of gadolinium?",
+    "answers": ["157.25"]
+  },
+  {
+    "question": "What is the atomic weight of terbium?",
+    "answers": ["158.92535"]
+  },
+  {
+    "question": "What is the atomic weight of dysprosium?",
+    "answers": ["162.500", "162.5"]
+  },
+  {
+    "question": "What is the atomic weight of holmium?",
+    "answers": ["164.93033"]
+  },
+  {
+    "question": "What is the atomic weight of erbium?",
+    "answers": ["167.259"]
+  },
+  {
+    "question": "What is the atomic weight of thulium?",
+    "answers": ["168.93422"]
+  },
+  {
+    "question": "What is the atomic weight of ytterbium?",
+    "answers": ["173.045"]
+  },
+  {
+    "question": "What is the atomic weight of lutetium?",
+    "answers": ["174.9668"]
+  },
+  {
+    "question": "What is the atomic weight of hafnium?",
+    "answers": ["178.49"]
+  },
+  {
+    "question": "What is the atomic weight of tantalum?",
+    "answers": ["180.94788"]
+  },
+  {
+    "question": "What is the atomic weight of tungsten?",
+    "answers": ["183.84"]
+  },
+  {
+    "question": "What is the atomic weight of rhenium?",
+    "answers": ["186.207"]
+  },
+  {
+    "question": "What is the atomic weight of osmium?",
+    "answers": ["190.23"]
+  },
+  {
+    "question": "What is the atomic weight of iridium?",
+    "answers": ["192.217"]
+  },
+  {
+    "question": "What is the atomic weight of platinum?",
+    "answers": ["195.084"]
+  },
+  {
+    "question": "What is the atomic weight of gold?",
+    "answers": ["196.966569"]
+  },
+  {
+    "question": "What is the atomic weight of mercury?",
+    "answers": ["200.592"]
+  },
+  {
+    "question": "What is the atomic weight of thallium?",
+    "answers": ["204.382", "204.385"]
+  },
+  {
+    "question": "What is the atomic weight of lead?",
+    "answers": ["207.2"]
+  },
+  {
+    "question": "What is the atomic weight of bismuth?",
+    "answers": ["208.98040", "208.9804"]
+  },
+  {
+    "question": "What is the atomic weight of polonium?",
+    "answers": ["209"]
+  },
+  {
+    "question": "What is the atomic weight of astatine?",
+    "answers": ["210"]
+  },
+  {
+    "question": "What is the atomic weight of radon?",
+    "answers": ["222"]
+  },
+  {
+    "question": "What is the atomic weight of francium?",
+    "answers": ["223"]
+  },
+  {
+    "question": "What is the atomic weight of radium?",
+    "answers": ["226"]
+  },
+  {
+    "question": "What is the atomic weight of actinium?",
+    "answers": ["227"]
+  },
+  {
+    "question": "What is the atomic weight of thorium?",
+    "answers": ["232.0377"]
+  },
+  {
+    "question": "What is the atomic weight of protactinium?",
+    "answers": ["231.03588"]
+  },
+  {
+    "question": "What is the atomic weight of uranium?",
+    "answers": ["238.02891"]
+  },
+  {
+    "question": "What is the atomic weight of neptunium?",
+    "answers": ["237"]
+  },
+  {
+    "question": "What is the atomic weight of plutonium?",
+    "answers": ["244"]
+  },
+  {
+    "question": "What is the atomic weight of americum?",
+    "answers": ["243"]
+  },
+  {
+    "question": "What is the atomic weight of curium?",
+    "answers": ["247"]
+  },
+  {
+    "question": "What is the atomic weight of berkelium?",
+    "answers": ["247"]
+  },
+  {
+    "question": "What is the atomic weight of californium?",
+    "answers": ["251"]
+  },
+  {
+    "question": "What is the atomic weight of einsteinium?",
+    "answers": ["252"]
+  },
+  {
+    "question": "What is the atomic weight of fermium?",
+    "answers": ["257"]
+  },
+  {
+    "question": "What is the atomic weight of menelevium?",
+    "answers": ["258"]
+  },
+  {
+    "question": "What is the atomic weight of nobelium?",
+    "answers": ["259"]
+  },
+  {
+    "question": "What is the atomic weight of lawrencium?",
+    "answers": ["262"]
+  },
+  {
+    "question": "What is the atomic weight of rutherforium?",
+    "answers": ["263"]
+  },
+  {
+    "question": "What is the atomic weight of dubnium?",
+    "answers": ["268"]
+  },
+  {
+    "question": "What is the atomic weight of seaborgium?",
+    "answers": ["271"]
+  },
+  {
+    "question": "What is the atomic weight of bohrium?",
+    "answers": ["270"]
+  },
+  {
+    "question": "What is the atomic weight of hassium?",
+    "answers": ["270"]
+  },
+  {
+    "question": "What is the atomic weight of meiterium?",
+    "answers": ["278"]
+  },
+  {
+    "question": "What is the atomic weight of darmstadtium?",
+    "answers": ["281"]
+  },
+  {
+    "question": "What is the atomic weight of roentgenium?",
+    "answers": ["281"]
+  },
+  {
+    "question": "What is the atomic weight of cobernicium?",
+    "answers": ["285"]
+  },
+  {
+    "question": "What is the atomic weight of ununtrium?",
+    "answers": ["286"]
+  },
+  {
+    "question": "What is the atomic weight of flerovium?",
+    "answers": ["289"]
+  },
+  {
+    "question": "What is the atomic weight of ununpentium?",
+    "answers": ["289"]
+  },
+  {
+    "question": "What is the atomic weight of livermorium?",
+    "answers": ["293"]
+  },
+  {
+    "question": "What is the atomic weight of ununseptium?",
+    "answers": ["294"]
+  },
+  {
+    "question": "What is the atomic weight of ununoctium?",
+    "answers": ["294"]
+  },
+  {
+    "question": "What is the Latin name for the common mouse?",
+    "answers": ["Mus musculus"]
+  },
+  {
+    "question": "Pilgrims never called themselves Pilgrims, what were they?",
+    "answers": ["Separatists"]
+  },
+  {
+    "question": "What juice is distilled to make cachaca?",
+    "answers": ["Sugarcane"]
+  },
+  {
+    "question": "What mid-western state shares its name with the title of a 1982 Bruce Springsteen album?",
+    "answers": ["Nebraska"]
+  },
+  {
+    "question": "In the movie \"Mean Girls\", what does Lindsay Lohan's character dress up as for a Halloween Party?",
+    "answers": ["Bride of Frankenstein"]
+  },
+  {
+    "question": "Which river made the Grand Canyon?",
+    "answers": ["Colorado River"]
+  },
+  {
+    "question": "On Christmas Day 800 A.D., who was coronated as emperor of the Holy Roman Empire?",
+    "answers": ["Charlemagne"]
+  },
+  {
+    "question": "At which pole would you find penguins?",
+    "answers": ["The South Pole", "South", "South Pole"]
+  },
+  {
+    "question": "What TV show featured the fictional band \"The Be Sharps\"?",
+    "answers": ["The Simpsons", "Simpsons"]
+  },
+  {
+    "question": "Who coined the phrase \"slam dunk\"?",
+    "answers": ["Chick Hearn", "Hearn"]
+  },
+  {
+    "question": "Entomologists study what?",
+    "answers": ["Insects", "Insect"]
+  },
+  {
+    "question": "What would you suffer from with Hypotension?",
+    "answers": ["Low blood pressure", "blood pressure"]
+  },
+  {
+    "question": "Who was the first Republican US President?",
+    "answers": ["Hannibal Hamlin", "Hamlin", "Abraham Lincoln", "Lincoln"]
+  },
+  {
+    "question": "What literary work inspired Jefferson Airplane's \"White Rabbit\" song?",
+    "answers": ["Alice in Wonderland"]
+  },
+  {
+    "question": "Bristol, Rockingham, Chelsea, and Minton are types of what?",
+    "answers": ["Pottery porcelain in China", "Chinese pottery", "Chinese porcelain"]
+  },
+  {
+    "question": "What legendary rock band had a drummer nicknamed \"Bonzo\"?",
+    "answers": ["Led Zeppelin"]
+  },
+  {
+    "question": "Dr. (Doc) Brown's puppy in \"Back to the Future Part II\" was named after what astronomer?",
+    "answers": ["Copernicus", ""]
+  },
+  {
+    "question": "Ambergris is a waxy substance that originates as a secretion from what animal?",
+    "answers": ["Sperm whale", "Whale"]
+  },
+  {
+    "question": "Who invented the rubber band?",
+    "answers": ["In 1845, Stephen Perry, of the rubber manufacturing company Messers Perry and Co., invented the rubber band.", "Stephen Perry", "Perry", "Messners", "Messners & Perry", "Messners and Perry"]
+  },
+  {
+    "question": "Which famous actor is honored with a statue in Leicester Square?",
+    "answers": ["Charlie Chaplin", "Charles Chaplin"]
+  },
+  {
+    "question": "What strait separates Spain from Morocco?",
+    "answers": ["Strait of Gibraltar", "Gibraltar", "Strait of Gibralter", "Gibralter"]
+  },
+  {
+    "question": "Where was the candy apple invented?",
+    "answers": ["New Jersey", "Jersey"]
+  },
+  {
+    "question": "How many life boats were on board the Titanic?",
+    "answers": ["20", "Twenty"]
+  },
+  {
+    "question": "Triskaidekaphobia is the fear of what?",
+    "answers": ["The number 13 -- The phobic avoids anything dealing with 13. He might refuse to step out of his homes on the 13th of every month.", "The number 13", "13", "Thirteen"]
+  },
+  {
+    "question": "Which Seinfeld creator plays himself in the TV show \"Curb Your Enthusiasm\"?",
+    "answers": ["Larry David", "David"]
+  },
+  {
+    "question": "What is it called when the liquid vapor pressure equals to the pressure of the gas above it?",
+    "answers": ["Boiling point", "Boiling"]
+  },
+  {
+    "question": "Which U.S. city is known as \"The Emerald City\"?",
+    "answers": ["Seattle"]
+  },
+  {
+    "question": "What does Fauna refer to?",
+    "answers": ["Animal life", "Animals"]
+  },
+  {
+    "question": "Which band released the song \"Proud Mary\" in 1969?",
+    "answers": ["Creedence Clearwater Revival", "Creedence Clearwater", "Creedence"]
+  },
+  {
+    "question": "What popular one-named musician's last name is Armstrong?",
+    "answers": ["Dido"]
+  },
+  {
+    "question": "In which decade did the movie \"Casablanca\" premier?",
+    "answers": ["1940s", "1940's", "40's", "40", "forties", "the forties", "1940"]
+  },
+  {
+    "question": "What was writer and war hero T.E. Lawrence popularly known as?",
+    "answers": ["Lawrence of Arabia", "Lawrence"]
+  },
+  {
+    "question": "What model was married to musician Nikki Sixx?",
+    "answers": ["Donna D'Errico", "D'Errico"]
+  },
+  {
+    "question": "In what year was nylon first synthesized?",
+    "answers": ["1935"]
+  },
+  {
+    "question": "In Greek mythology, who did Athena turn into a spider?",
+    "answers": ["Arachne"]
+  },
+  {
+    "question": "Which shark has seven gill slits, as opposed to the normal five?",
+    "answers": ["The sevengill shark", "sevengill shark", "sevengill"]
+  },
+  {
+    "question": "What slang term for the stomach is the highest-scoring ailment in the game \"Operation\"?",
+    "answers": ["The breadbasket", "The bread basket", "The bread-basket", "Breadbasket", "Bread basket", "Bread-basket"]
+  },
+  {
+    "question": "The Orient Express train originally ran from Paris to where?",
+    "answers": ["Istanbul"]
+  },
+  {
+    "question": "Where is the largest meteorite crater on Earth?",
+    "answers": ["Vredefort, South Africa -- 299 km diameter", "Vredefort"]
+  },
+  {
+    "question": "Which Rolling Stones hit was reputedly based on Martha Reeves and The Vandellas \"Dancing In The Street\"?",
+    "answers": ["I can't get no satisfaction", "Can't get no satisfaction", "Satisfaction"]
+  },
+  {
+    "question": "What is the principle holiday adornment in most Mexican homes?",
+    "answers": ["el Nacimiento, the Nativity scene", "el Nacimiento", "the Nativity scene"]
+  },
+  {
+    "question": "Who said, \"Two things are infinite: the universe and human stupidity, and I'm not sure about the universe\"?",
+    "answers": ["Albert Einstein", "Einstein"]
+  },
+  {
+    "question": "The Titanic picked up passengers in which two ports other than Southampton?",
+    "answers": ["Cherbourg and Queenstown"]
+  },
+  {
+    "question": "What is the name for a virus that infects a bacteria?",
+    "answers": ["Bacteriophage"]
+  },
+  {
+    "question": "What American street is best known for its eight switchbacks between Hyde and Leavenworth?",
+    "answers": ["Lombard Street", "Lombard"]
+  },
+  {
+    "question": "Rome was founded in which year?",
+    "answers": ["753 B.C", "753 BC", "753BC"]
+  },
+  {
+    "question": "The song \"I'll Be Missing You\" is a tribute to who?",
+    "answers": ["The Notorious B.I.G.", "Notorious B.I.G.", "The Notorious BIG", "Notorious BIG"]
+  },
+  {
+    "question": "Who was the first woman to reach the summit of Mount Kilimanjaro?",
+    "answers": ["Sheila MacDonald -- She ascended the Tanzanian mountain in 1927 at the age of 22.", "Sheila MacDonald", "MacDonald"]
+  },
+  {
+    "question": "Which U.S. state is known for its Juicy Lucy burgers?",
+    "answers": ["Minnesota", "Mn"]
+  },
+  {
+    "question": "In the Christmas song, The Holly and The Ivy which one bears the crown?",
+    "answers": ["The holly", "Holly"]
+  },
+  {
+    "question": "In The Simpsons, who said: \"I've said it before and I'll say it again: Democracy simply doesn't work.\"?",
+    "answers": ["Kent Brockman", "Brockman"]
+  }
+]
+

@@ -1,0 +1,14 @@
+{
+  "engines": {
+    "node": ">=16"
+  },
+  "dependencies": {
+    "17": "0.0.0",
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/rest": "^0.4.1",
+    "discord-api-types": "^0.32.1",
+    "discord.js": "^13.6.0",
+    "node-fetch": "2",
+    "shell-escape": "^0.2.0"
+  }
+}
